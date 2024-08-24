@@ -40,7 +40,7 @@ Before you begin, ensure you have the following:
 
 3. **Configure your environment:**
 
-    Create a `.env` file in the root directory and add the following variables:
+    Pass these variables in hardhat.config.js:
 
     ```env
     INFURA_PROJECT_ID=your_infura_project_id
